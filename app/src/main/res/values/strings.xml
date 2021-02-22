@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Bolkar UI Demo</string>
+    <string name="mod">Moderator</string>
+    <string name="joined_members_prompt">Other users who have joined:</string>
 </resources>
